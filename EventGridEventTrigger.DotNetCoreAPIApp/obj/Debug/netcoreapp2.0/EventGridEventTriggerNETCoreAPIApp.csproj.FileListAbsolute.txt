@@ -1,0 +1,11 @@
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\bin\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.deps.json
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\bin\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.runtimeconfig.json
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\bin\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.runtimeconfig.dev.json
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\bin\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\bin\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.pdb
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\obj\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.csprojAssemblyReference.cache
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\obj\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.csproj.CoreCompileInputs.cache
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\obj\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.AssemblyInfoInputs.cache
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\obj\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.AssemblyInfo.cs
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\obj\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNETCoreAPIApp\obj\Debug\netcoreapp2.0\EventGridEventTriggerNETCoreAPIApp.pdb
