@@ -96,3 +96,14 @@ C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNetFra
 C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNetFrameworkAPIApp\obj\Debug\EventGridEventTrigger.DotNetFrameworkAPIApp.csproj.CopyComplete
 C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNetFrameworkAPIApp\obj\Debug\EventGridEventTriggerNetFrameworkAPIApp.dll
 C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTriggerNetFrameworkAPIApp\obj\Debug\EventGridEventTriggerNetFrameworkAPIApp.pdb
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\itssu\source\repos\AzureEventGridSubscriber\EventGridEventTrigger.DotNetFrameworkAPIApp\bin\roslyn\VBCSCompiler.exe

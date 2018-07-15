@@ -14,20 +14,17 @@ namespace EventGridEventTrigger.DotNetCoreAPIApp.Controllers
     [Produces("application/json")]
     public class EventGridEventHandlerController : Controller
     {
-        private const string subscriptionValidationEvent = "Microsoft.EventGrid.SubscriptionValidationEvent";
-
         [HttpPost]
         [Route("api/EventGridEventHandler")]
         public JObject Post([FromBody]object request)
         {
-            var response = string.Empty;
             var requestMessageContent = JsonConvert.SerializeObject(request);
             var eventGridEvent = JsonConvert.DeserializeObject<EventGridEvent[]>(requestMessageContent)
                 .FirstOrDefault();
             var data = eventGridEvent.Data as JObject;
 
-            // Validate whether EventType is of SubscriptionValidationEvent type
-            if (string.Equals(eventGridEvent.EventType, subscriptionValidationEvent, StringComparison.OrdinalIgnoreCase))
+            // Validate whether EventType is of "Microsoft.EventGrid.SubscriptionValidationEvent"
+            if (string.Equals(eventGridEvent.EventType, Constants.SubscriptionValidationEvent, StringComparison.OrdinalIgnoreCase))
             {
                 var eventData = data.ToObject<SubscriptionValidationEventData>();
                 var responseData = new SubscriptionValidationResponseData
@@ -43,6 +40,9 @@ namespace EventGridEventTrigger.DotNetCoreAPIApp.Controllers
             else
             {
                 // Handle your custom event
+                var eventData = data.ToObject<CustomData>();
+                var customEvent = CustomEvent<CustomData>.CreateCustomEvent(eventData);
+                return JObject.FromObject(customEvent);
             }
 
             return new JObject(new HttpResponseMessage(System.Net.HttpStatusCode.OK));
