@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace EventGridEventTrigger.Library
+﻿namespace EventGridEventTrigger.Library
 {
     public class SubscriptionValidationResponseData
     {
