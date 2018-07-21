@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventGridEventTrigger.DotNe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventGridEventTrigger.DotNetCoreAPIApp", "EventGridEventTrigger.DotNetCoreAPIApp\EventGridEventTrigger.DotNetCoreAPIApp.csproj", "{53D4DC80-B757-4341-99FC-7CFB29F76273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventGridEventTrigger.AzureFunctionAppV2", "EventGridEventTrigger.AzureFunctionAppV2\EventGridEventTrigger.AzureFunctionAppV2.csproj", "{CCDFB82D-F18D-4C74-A623-5EBEF8508B3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventGridEventTrigger.AzureFunctionAppV2", "EventGridEventTrigger.AzureFunctionAppV2\EventGridEventTrigger.AzureFunctionAppV2.csproj", "{CCDFB82D-F18D-4C74-A623-5EBEF8508B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventGridEventTrigger.EventPublisher", "EventGridEventTrigger.EventPublisher\EventGridEventTrigger.EventPublisher.csproj", "{BA7AEF89-BC3A-44E6-83E0-BC92FAC9E2D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CCDFB82D-F18D-4C74-A623-5EBEF8508B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCDFB82D-F18D-4C74-A623-5EBEF8508B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCDFB82D-F18D-4C74-A623-5EBEF8508B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7AEF89-BC3A-44E6-83E0-BC92FAC9E2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7AEF89-BC3A-44E6-83E0-BC92FAC9E2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7AEF89-BC3A-44E6-83E0-BC92FAC9E2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7AEF89-BC3A-44E6-83E0-BC92FAC9E2D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
