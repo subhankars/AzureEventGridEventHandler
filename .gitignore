@@ -7,3 +7,10 @@
 /.vs/AzureEventGridEventHandler/v15/Server/sqlite3/storage.ide
 /.vs/AzureEventGridEventHandler/v15/Server/sqlite3/db.lock
 /.vs/AzureEventGridEventHandler/v15/Server/sqlite3
+/EventGridEventTrigger.Library/obj
+/EventGridEventTrigger.DotNetFrameworkAPIApp/bin
+/EventGridEventTrigger.DotNetCoreAPIApp/obj
+/EventGridEventTrigger.EventPublisher/Properties
+/EventGridEventTrigger.EventPublisher/obj/Debug
+/EventGridEventTrigger.EventPublisher/bin/Debug
+/EventGridEventTrigger.Library/bin/Debug/netstandard2.0
