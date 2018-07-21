@@ -1,4 +1,4 @@
-# Working with Azure EventGrid Events
+# Working with Custom Azure EventGrid Events
 
 ## In .NET Framework
 #### Using Azure Function V1 (.NET Framework) - HTTP Trigger
