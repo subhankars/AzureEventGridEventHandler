@@ -15,8 +15,8 @@ namespace EventGridEventTrigger.DotNetCoreAPIApp.Controllers
         [Route("api/EventGridEventHandler")]
         public JObject Post([FromBody]object request)
         {
-            var requestMessageContent = JsonConvert.SerializeObject(request);
-            var eventGridEvent = JsonConvert.DeserializeObject<EventGridEvent[]>(requestMessageContent)
+            //Deserializing the request 
+            var eventGridEvent = JsonConvert.DeserializeObject<EventGridEvent[]>(request.ToString())
                 .FirstOrDefault();
             var data = eventGridEvent.Data as JObject;
 
