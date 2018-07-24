@@ -14,3 +14,4 @@
 /EventGridEventTrigger.EventPublisher/obj/Debug
 /EventGridEventTrigger.EventPublisher/bin/Debug
 /EventGridEventTrigger.Library/bin/Debug/netstandard2.0
+/EventGridEventTrigger.DotNetCoreAPIApp/bin/Debug/netcoreapp2.0
